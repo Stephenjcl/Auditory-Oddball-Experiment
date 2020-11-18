@@ -1,0 +1,34 @@
+Marker Info:
+
+1 - Fixation Cross
+2 - Time Estimation Cue
+3 - Response to Time Estimation
+
+Correct Markers:
+11 - Moderate
+21 - Moderate (Easier)
+31 - Easy
+41 - Hard
+51 - Easy
+
+Incorrect Markers:
+12 - Moderate
+22 - Hard
+32 - Moderate
+42 - Hard
+52 - Easy
+
+Block Types:
+1 - True Moderate, modest constriction and increase.
+2 - Difficult Moderate, constriction is moderate, increase is low
+3 - Light Moderate, constriction is low, increase is moderate
+4 - Hard, constriction is high, increase is low
+5 - Easy, constriction is low, increase is high
+
+201 - Oddball Fixation Cross
+202 - Control Stimulus
+203 - Oddball Stimulus
+
+Auditory Oddball Markers
+221 - Control
+222 - Oddball
